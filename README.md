@@ -1,6 +1,5 @@
 # codedex-python
-Python coding practice and mini projects
-# codedex-python
+Python coding practice and mini project
 
 Programs:
 - initials.py
